@@ -1,6 +1,4 @@
-# Tso kai lo
+# Titanic Project
 
-1. asdkjakd
-2. askdjalkdjs
-3. askdjaslkdj
-4. aksdjasld
+This is titanic project!
+
